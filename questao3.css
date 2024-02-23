@@ -1,0 +1,32 @@
+.container{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+#imagem-fundo1{
+    height: 300px;
+    width: 300px;
+    margin: 10px;
+    background-image: url("https://img.freepik.com/fotos-gratis/paisagem-tropical-palma-verao_1203-5352.jpg?size=626&ext=jpg&ga=GA1.1.1700460183.1708473600&semt=sph");
+    background-position: center;
+    background-size: cover;
+}
+
+#imagem-fundo2{
+    height: 300px;
+    width: 300px;
+    margin: 10px;
+    background-image: url("https://www.passagenspromo.com.br/blog/wp-content/uploads/2021/10/Havai-740x415.jpg");
+    background-position: center;
+    background-size: cover;
+}
+
+#imagem-fundo3{
+    height: 300px;
+    width: 300px;
+    margin: 10px;
+    background-image: url("https://img.static-af.com/images/media/45CB9A13-B167-4842-8EA805D0CC7A4D04/?w=480&aspect_ratio=2:1");
+    background-position: center;
+    background-size: cover;
+}

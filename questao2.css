@@ -1,0 +1,19 @@
+body{
+    background-image: url("https://png.pngtree.com/thumb_back/fw800/background/20231003/pngtree-vintage-style-background-with-old-paper-texture-image_13582863.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#paragrafo{
+    word-spacing: 10px;
+}
+
+#titulo{
+    font-variant: small-caps;
+    text-align: center;
+}
